@@ -1,13 +1,27 @@
-# Webpack App Starter
+# Tracalorie
 
- Frontend environment for building JavaScript applications
+It is an app to track calories, meals and workouts.
 
 ## Usage
 
-### Run Dev Server (Port 3000)
+Install dependencies
 
-````npm run dev````
+```
+npm install
+```
 
-### Build for production
+Run the dev server
 
-````npm run build````
+```
+npm run dev
+```
+
+It will start on `http://localhost:3000`
+
+To build for production
+
+```
+npm run build
+```
+
+Your production files will be in the `dist` folder.
